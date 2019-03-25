@@ -12,4 +12,4 @@ Click the "Issues" tab above for current live requests for the community. You ca
 2) People to make molecules, for example as part of lab classes
 3) Contributions of molecules for biological evaluation - molecules in fridges/freezers that are either similar to those we're looking at, or potential antifungals that have not yet been evaluated.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fenarimol.svg">
+![fenarimolparent](https://raw.githubusercontent.com/OpenSourceMycetoma/Series-1-Fenarimols/master/Wiki%20Files/Fenarimol%20Synthetic%20Chem/OSMYCFenarimolSynth.svg)
