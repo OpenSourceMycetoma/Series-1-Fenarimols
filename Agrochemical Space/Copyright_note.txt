@@ -3,4 +3,4 @@ Originals at:
 https://hracglobal.com/files/moaposter.pdf
 http://www.frac.info/publications/downloads
 https://www.irac-online.org/modes-of-action/
-If the copyright owners would like these files removed, please contact any member of Open Source Mycetoma, or @mattodd or email opensourcemycetoma@gmail.com or tweet at https://twitter.com/MycetOS
+If the copyright owners would like these files removed, please open a github issue on any Open Source Mycetoma repository or email opensourcemycetoma@gmail.com or tweet to https://twitter.com/MycetOS
