@@ -1,5 +1,5 @@
 Kresoxim-methyl [Mitochondrial poison] [May have already been tested!]
-Azoxystrobin [Mitochondrial poison] [May have already been tested!]
+Azoxystrobin [Mitochondrial poison] [Found to not be helpful in insect model]
 Paclobutrazol [similar to fenarimol/CYP51]
 Diclocymet [targets melanin synthesis]
 Tolprocarb [targets melanin synthesis]
