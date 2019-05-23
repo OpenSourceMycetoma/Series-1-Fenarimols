@@ -1,4 +1,6 @@
-Kresoxim-methyl [Mitochondrial poison] [May have already been tested!]
+MFernflower's list of agrochemicals of intrest to the mycetoma project:
+-------------------------------------------------------------------------------------
+Kresoxim-methyl [Mitochondrial poison] [Was this drug tested in the insect model??]
 Azoxystrobin [Mitochondrial poison] [Found to not be helpful in insect model]
 Paclobutrazol [similar to fenarimol/CYP51]
 Diclocymet [targets melanin synthesis]
@@ -10,7 +12,6 @@ Tebuconazole [similar to fenarimol/CYP51]
 Fluopicolide [Spectrin inhibitor]
 Cyproconazole [similar to fenarimol/CYP51]
 Iprodione [DAF1 kinase inhibitor]
-N-phenylsuccinimide and/or N-(p-cyanophenyl)succinimide [DAF1 kinase inhibitor] Synthetic protocol is super easy and can be done by highschoolers https://pubs.acs.org/doi/abs/10.1021/ed100983x
 Clofentezine [Chitin synthesis blocker]
 Diflovidazin [Chitin synthesis blocker]
 Hexythiazox [Chitin synthesis blocker]
