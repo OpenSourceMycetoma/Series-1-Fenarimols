@@ -1,5 +1,7 @@
 MFernflower's list of agrochemicals of intrest to the mycetoma project:
 -------------------------------------------------------------------------------------
+We will need to check the melanin synthesis inhibitors in mice for skin tox should we ever wish to go forward with them!
+-------------------------------------------------------------------------------------
 Kresoxim-methyl [Mitochondrial poison] [Was this drug tested in the insect model??]
 Azoxystrobin [Mitochondrial poison] [Found to not be helpful in insect model]
 Paclobutrazol [similar to fenarimol/CYP51]
