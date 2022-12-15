@@ -15,7 +15,7 @@ Major recurring needs of the consortium:
 3) Contributions of molecules for biological evaluation - molecules in fridges/freezers that are either similar to those we're looking at, or potential possibly unrelated antifungals that have not yet been evaluated. 
 
 # Getting in Touch
-Lots of people contribute to this project, and you can see who they are on the Issues (above). The easiest way to ask a question is to start an Issue yourself. You can also check [Twitter](https://twitter.com/MycetOS) for recent activity or to get in touch. Email is less good (discouraged by the [Six Laws](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565)) then try Matthew Todd at UCL in London, Wendy van de Sande at Erasmus MC in Rotterdam, Hung Phat Duong or Alice Williamson at The University of Sydney in Australia, or Ben Perry at DNDi in Geneva.
+Lots of people contribute to this project, and you can see who they are on the Issues (above). The easiest way to ask a question is to start an Issue yourself. You can also check [Twitter](https://twitter.com/MycetOS) for recent activity or to get in touch. Email is less good (discouraged by the [Six Laws](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565)) then try Matthew Todd at UCL in London, Wendy van de Sande at Erasmus MC in Rotterdam, Hung Phat Duong or Alice Williamson at The University of Sydney in Australia.
 
 # Licence
 Unless otherwise stated, everything in Open Source Mycetoma is governed by the Creative Commons Licence [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
