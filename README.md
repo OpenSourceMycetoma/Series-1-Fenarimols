@@ -1,6 +1,8 @@
 # Series-1-Fenarimols
 This repository is for everything to do with the first series of molecules examined by the Open Source Mycetoma (MycetOS) drug discovery project. If you want to know more about what that means, head to the [general repository](https://github.com/OpenSourceMycetoma/General-Start-Here).
 
+Much of the research described in this repository is published in [this paper](https://doi.org/10.1039/D5MD00427F).
+
 The origin of this series is described in MycetOS's first paper, which can be read [here](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006437)  --
 The spreadsheet contaning the molecules MycetOS has examined to date [can be found here](http://tinyurl.com/MycetomaMols) (to visualise the spreadsheet, we'd recommend [Data Warrior](http://www.openmolecules.org/datawarrior/download.html)). 
 
